@@ -6,7 +6,7 @@ function App() {
     return ( <
         Button variant = "contained"
         color = "primary" >
-        Hello World <
+        Hello World ReactJs <
         /Button>
     );
 }
